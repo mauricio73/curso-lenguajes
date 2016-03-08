@@ -26,7 +26,7 @@ public class GenerarCliente {
         //       d1.setNumero("sur 11");
         //     d1.setMunicipio("sur 11"); 
         //clientes[0].setDireccion(d1);
-        clientes[0]=new Cliente("Ana","Lopez",20,20000 new Direccion("sur 11",20,"Ecatepunk"));
+        
         return clientes;
     }
 }
