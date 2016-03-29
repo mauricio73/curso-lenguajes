@@ -164,4 +164,4 @@ public class TestBasico extends javax.swing.JFrame {
     private javax.swing.JRadioButton radio2;
     private javax.swing.JRadioButton radio3;
     // End of variables declaration//GEN-END:variables
-}
+}       
