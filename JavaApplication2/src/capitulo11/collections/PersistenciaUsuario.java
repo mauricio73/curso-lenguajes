@@ -11,10 +11,10 @@ package capitulo11.collections;
  */
 import java.io.*;
 import java.util.ArrayList;
-public class PersistenciaUsusrios {
+public class PersistenciaUsuario {
     ArrayList<Usuario> usuarios;
 
-    public PersistenciaUsusrios() {
+    public PersistenciaUsuario() {
         usuarios=new ArrayList<>();
     }
     //Primero ponemos el metodo de buscar todos
